@@ -1,0 +1,20 @@
+h1{
+	color: rgba(11,99,150,.4);
+	border: 8px dashed rgb(11,99,150);
+
+}
+li{
+	color: rgba(100,0,100,.5);
+}
+h4{
+	color: rgb(11,99,150);
+	background: rgb(255,100,80);
+}
+
+body {
+	background: pink;
+}
+
+div{
+ background: rgb(200,200,50);
+}
