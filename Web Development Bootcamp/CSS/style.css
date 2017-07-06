@@ -1,0 +1,29 @@
+/*Inheritance and specificity*/
+
+/*Type Selectors*/
+li{ 
+
+}
+li a {
+
+}
+
+li + a{
+
+}
+
+
+/*class, attribute etc more specific than above*/
+
+.hello{
+
+} 
+
+input[type ="text"]{
+
+}
+
+/*most specific: id selector */
+#test{
+
+}
